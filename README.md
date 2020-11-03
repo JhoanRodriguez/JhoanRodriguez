@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/jhoanrodriguez_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jhoanrodriguez_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jhserohe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jhserohe" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sebastian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sebastian" height="30" width="40" /></a>
 <a href="https://fb.com/jhoan.rodriguez.93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jhoan.rodriguez.93" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jhoanrodriguez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jhoanrodriguez" height="30" width="40" /></a>
 </p>
